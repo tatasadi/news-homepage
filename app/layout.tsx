@@ -25,7 +25,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${inter.className} flex min-h-screen flex-col items-center justify-center`}
+        className={`${inter.className} mx-auto flex min-h-screen max-w-7xl flex-col bg-off-white text-very-dark-blue`}
       >
         {children}
       </body>
