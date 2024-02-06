@@ -1,11 +1,7 @@
-import Image from "next/image"
 import Header from "./components/Header"
 import NewsItemBlack from "./components/NewsItemBlack"
 import NewsItemWithImage from "./components/NewsItemWithImage"
 import Reference from "./components/Reference"
-import imageRetro from "@/public/images/image-retro-pcs.jpg"
-import imageTopLaptops from "@/public/images/image-top-laptops.jpg"
-import imageGrowthOfGaming from "@/public/images/image-gaming-growth.jpg"
 
 export default function Home() {
   return (
