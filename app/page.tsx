@@ -14,11 +14,11 @@ export default function Home() {
       <main className="mx-4 mt-8 lg:mx-[10.31rem] lg:mt-[3.44rem]">
         <div className="grid grid-cols-1 lg:grid-cols-3">
           <div className="h-[18.75rem] w-full bg-[url('/images/image-web-3-mobile.jpg')] bg-cover bg-no-repeat lg:col-span-2 lg:bg-[url('/images/image-web-3-desktop.jpg')]"></div>
-          <h1 className="lg:mr:[1.88rem] mt-6 text-[2.5rem] font-extrabold leading-10 lg:row-start-2 lg:text-[3.5rem] lg:leading-[3.5rem]">
+          <h1 className="lg:mr:[1.88rem] mt-6 text-[2.5rem] font-extrabold leading-10 lg:row-start-2 lg:mt-0 lg:text-[3.5rem] lg:leading-[3.5rem]">
             The Bright Future of Web 3.0?
           </h1>
           <div className="lg:row-start-2">
-            <p className="mt-4 text-[0.9375rem] leading-[1.625rem] text-dark-grayish-blue lg:mt-6">
+            <p className="mt-4 text-[0.9375rem] leading-[1.625rem] text-dark-grayish-blue lg:mt-0">
               We dive into the next evolution of the web that claims to put the
               power of the platforms back into the hands of the people. But is
               it really fulfilling its promise?

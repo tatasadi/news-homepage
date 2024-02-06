@@ -21,7 +21,7 @@ const Header: React.FC = () => {
         <div className="fixed inset-0 z-10 bg-very-dark-blue opacity-50 md:hidden"></div>
       )}
       <nav
-        className={`fixed right-0 top-0 z-20 h-full w-2/3 bg-off-white pl-6 pt-[9rem] md:relative md:ml-auto md:mr-4 md:w-auto md:pt-7 lg:mr-0 lg:mt-0 ${
+        className={`fixed right-0 top-0 z-20 h-full w-2/3 bg-off-white pl-6 pt-[9rem] md:relative md:ml-auto md:mr-4 md:w-auto md:pt-7 md:text-dark-grayish-blue lg:mr-0 lg:mt-0 ${
           isMenuOpen ? "block" : "hidden md:block"
         }`}
       >

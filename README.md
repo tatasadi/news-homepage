@@ -36,6 +36,7 @@ Mobile:
 ![](./screenshot2.png)
 
 Mobile Navbar:
+
 ![](./screenshot3.png)
 
 ### Links
