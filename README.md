@@ -27,8 +27,16 @@ Users should be able to:
 
 ### Screenshots
 
+Desktop:
+
 ![](./screenshot1.png)
+
+Mobile:
+
 ![](./screenshot2.png)
+
+Mobile Navbar:
+![](./screenshot3.png)
 
 ### Links
 
