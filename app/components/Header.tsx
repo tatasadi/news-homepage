@@ -27,19 +27,29 @@ const Header: React.FC = () => {
       >
         <ul className="flex flex-col gap-6 text-lg leading-6 md:flex-row">
           <li>
-            <a href="#">Home</a>
+            <a href="#" aria-label="Home" className="link">
+              Home
+            </a>
           </li>
           <li>
-            <a href="#">New</a>
+            <a href="#" aria-label="New" className="link">
+              New
+            </a>
           </li>
           <li>
-            <a href="#">Popular</a>
+            <a href="#" aria-label="Popular" className="link">
+              Popular
+            </a>
           </li>
           <li>
-            <a href="#">Trending</a>
+            <a href="#" aria-label="Trending" className="link">
+              Trending
+            </a>
           </li>
           <li>
-            <a href="#">Categories</a>
+            <a href="#" aria-label="Categories" className="link">
+              Categories
+            </a>
           </li>
         </ul>
       </nav>

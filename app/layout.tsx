@@ -25,7 +25,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${inter.className} mx-auto flex min-h-screen max-w-7xl flex-col bg-off-white text-very-dark-blue`}
+        className={`${inter.className} mx-auto flex min-h-screen max-w-[90rem] flex-col bg-off-white text-very-dark-blue`}
       >
         {children}
       </body>

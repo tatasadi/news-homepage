@@ -14,7 +14,11 @@
     white-space: nowrap; /* added line */
     border: 0;
   }
-  
+
+  .link {
+    @apply cursor-pointer hover:text-soft-red;
+  }
+
   .footer-link {
     @apply cursor-pointer underline;
   }
